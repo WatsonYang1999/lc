@@ -1,0 +1,29 @@
+"C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\12574\CLionProjects\untitled -B C:\Users\12574\CLionProjects\untitled\cmake-build-debug
+    -- src/ali_4.cpp will be compiled to bin/ali_4
+    -- src/CMakeCXXCompilerId.cpp will be compiled to bin/CMakeCXXCompilerId
+    -- src/dijkstra.cpp will be compiled to bin/dijkstra
+    -- src/lc_102.cpp will be compiled to bin/lc_102
+    -- src/lc_103.cpp will be compiled to bin/lc_103
+    -- src/lc_127.cpp will be compiled to bin/lc_127
+    -- src/lc_133.cpp will be compiled to bin/lc_133
+    -- src/lc_160.cpp will be compiled to bin/lc_160
+    -- src/lc_19.cpp will be compiled to bin/lc_19
+    -- src/lc_1976.cpp will be compiled to bin/lc_1976
+    -- src/lc_240.cpp will be compiled to bin/lc_240
+    -- src/lc_25.cpp will be compiled to bin/lc_25
+    -- src/lc_502.cpp will be compiled to bin/lc_502
+    -- src/lc_547.cpp will be compiled to bin/lc_547
+    -- src/lc_797.cpp will be compiled to bin/lc_797
+    -- src/lc_86.cpp will be compiled to bin/lc_86
+    -- src/lc_template.cpp will be compiled to bin/lc_template
+    -- src/main.cpp will be compiled to bin/main
+    -- src/meituan1_2.cpp will be compiled to bin/meituan1_2
+    -- src/meituan1_3.cpp will be compiled to bin/meituan1_3
+    -- src/offer_09.cpp will be compiled to bin/offer_09
+    -- src/p_q.cpp will be compiled to bin/p_q
+    -- src/permutation.cpp will be compiled to bin/permutation
+    -- src/priority_queue.cpp will be compiled to bin/priority_queue
+    -- src/remove_duplicate.cpp will be compiled to bin/remove_duplicate
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/12574/CLionProjects/untitled/cmake-build-debug
